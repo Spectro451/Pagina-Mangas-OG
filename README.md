@@ -21,7 +21,7 @@ Este es un proyecto web que hice junto a [@camicarrascoi](http://github.com/cami
 # Cómo usarlo?
 
 Puedes ver el sitio en línea desde este enlace:  
-[Ver página](https://spectro451.github.io/Pagina-Mangas-OG/)
+[Ver página](https://spectro451.github.io/Pagina-Mangas-OG/PaginaMangaV2.html)
 
 Si quieres descargarlo y probarlo localmente:
 
